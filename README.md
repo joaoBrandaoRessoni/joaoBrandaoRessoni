@@ -3,10 +3,10 @@
 ### My name is Joao Paulo and i'm try to make art in programming world, while the code drives me crazy because i forget a semicolon. Sometimes I get too focused on work, but i really like making people around me laugh, well, laughing is the best way to compile our problems and made then look like an ease-in-out transition. Once a little 11 years old boy said "I want to create games", so let's create our own games and make it worth, because this is the real art.
 
 # Learning
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,typescript,vuejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,cs,docker)](https://skillicons.dev)
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,laravel,mysql,jquery,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,laravel,mysql,jquery)](https://skillicons.dev)
 
 <br>
 
